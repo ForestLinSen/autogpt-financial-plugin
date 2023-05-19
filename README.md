@@ -23,6 +23,9 @@ Don't worry if you don't remember the stock symbol, though. If you specify the f
 
 `financial_analysis_MSFT.txt`:
 
+(prompt):
+As a senior analyst, your task is to write a comprehensive analysis report on a given stock using the provided information below. The report should offer a detailed overview of the company's financial condition, covering all essential aspects of its financial performance. Additionally, it should include your insights and a summary. Aim for a highly detailed report, consisting of approximately 3000 words.
+
     Financial Analysis for MSFT:
 
     As of the quarter ending 2023-03-31 00:00:00, MSFT had:
